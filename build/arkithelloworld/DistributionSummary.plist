@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arkithelloworld.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>2E0EF1E2F1B4D8344188D1248DED0F3FF29B1664</string>
+				<key>dateExpires</key>
+				<string>23/04/2021</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>QSYSP5WRG4.com.imagination.testing.arkithelloworld</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>QSYSP5WRG4</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>QSYSP5WRG4.com.imagination.testing.arkithelloworld</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>arkithelloworld.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>b619110a-283d-4643-9b2d-3d3e382d41e4</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.imagination.testing.arkithelloworld</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>QSYSP5WRG4</string>
+				<key>name</key>
+				<string>The Imagination Group Limited</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
